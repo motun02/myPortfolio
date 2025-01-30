@@ -72,7 +72,7 @@ a {
       rgba(0, 0, 0, 0.493),
       rgba(0, 0, 0, 0.726)
     ),
-    url("./bg1.jpg");
+    url("background.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
